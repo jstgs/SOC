@@ -2,4 +2,8 @@
 MY SOC
 
 
-###Home Lab SOC Project
+Home Lab SOC Project
+
+Wazuh
+Hive
+Shuffle
